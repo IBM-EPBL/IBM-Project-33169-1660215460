@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="border: 10px;margin: 20px;">
+    <h1 style="text-align: center;color: white;background-color:rebeccapurple;border-radius: 5px;">GLOBALS SALES DATA ANALYTICS</h1>
+    <h2 style="text-align: center;color: white;background-color:cornflowerblue;border-radius: 5px;">Dashboard</H2>
+    
+        <iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.public_folders%2Ffinal%2Bnt%2Fglobal%2Bsuperstore%2Bdashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000001846a22d7cc_00000000" width="1250" height="800" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+  
+    <h2 style="text-align: center;color: white;background-color:cornflowerblue;border-radius: 5px;">Report</h2>
+        <iframe src="https://us3.ca.analytics.ibm.com/bi/?pathRef=.public_folders%2Ffinal%2Bnt%2FNew%2Breport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false" width="1200" height="1700" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+        <iframe src="https://us3.ca.analytics.ibm.com/bi/?pathRef=.public_folders%2Ffinal%2Bnt%2FSECOND%2BREPORT&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false" width="1250" height="1750" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+    <h2 style="text-align: center;color: white;background-color:cornflowerblue;border-radius: 5px;">Story</h2>
+    <iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.public_folders%2Ffinal%2Bnt%2Fpresentation%2Bfinal%2Bnt&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model000001847631a39e_00000000&amp;sceneTime=0" width="1200" height="790" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</body>
+</html>
